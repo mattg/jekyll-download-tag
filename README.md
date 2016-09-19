@@ -1,4 +1,4 @@
-# JekyllDownloadTag
+# Jekyll Download Tag
 
 This [Jekyll](https://jekyllrb.com/) plugin creates a `download` Liquid Template tag. I use it to download external resources for inlining.
 
